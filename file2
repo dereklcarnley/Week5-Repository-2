@@ -1,1 +1,1 @@
-This is a test of my automated job in Jenkins!
+This is a test of my automated job in Jenkins! If I push a commit to this file, the build should automatically update on my Jenkins server.
